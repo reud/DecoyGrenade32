@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Entries">
+        <item>銃声1</item>
+        <item>銃声2</item>
+        <item>銃声3</item>
+        <item>銃声4</item>
+        <item>銃声5</item>
+        <item>銃声6</item>
+        <item>銃声7</item>
+        <item>銃声8</item>
+        <item>銃声9</item>
+    </string-array>
+</resources>
